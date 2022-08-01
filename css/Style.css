@@ -206,13 +206,14 @@ h1,h2,h3,h4,h5
     }
 .rotate{
     font-size: 20px;
-    font-weight: bold
+    font-weight: bold ;
     align-items: center;
     justify-content: center;
-	    
-    #home h3{
-        color:white;
-    }
+}
+#home h3 {        
+    color: white;
+}
+   
 #home .btn
     {
         background: transparent;
@@ -413,3 +414,4 @@ footer hr
         color: #D43F52;
     }
 /* end social icon */
+
