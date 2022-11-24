@@ -245,7 +245,7 @@ h1,h2,h3,h4,h5
 /* start SKILLS */
 #work
     {
-        background: #1a1a1a;
+        background: #030303;
     }
 #work h2
     {
@@ -291,7 +291,7 @@ h1,h2,h3,h4,h5
 
 #Experience
     {
-        background: #2c2a2a;
+        background: #141010;
         justify-content: center;
         display:flex;
         align-items: center;
